@@ -1,3 +1,10 @@
+/*
+
+To be used for a Tableau project
+
+*/
+
+-- 1.
 
 SELECT *
 FROM PortfolioProject.dbo.CovidDeaths$
